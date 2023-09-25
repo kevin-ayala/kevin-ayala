@@ -39,6 +39,7 @@ Technology Stack:
 <li>The 10X Rule The only difference between succcess and failure by Grant Cardone</li>
 <li>The Unicorn Project by Gene Kim</li>
 <li>The Courage to be Disliked by Ichiro Kishimi and Fumitake Koga</li>
+<li>The Pragmatic by David Thomas and Andrew Hunt</li>
 </ul>
 <br>
 <h3>
